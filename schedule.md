@@ -18,5 +18,5 @@
 |Mar/30 – Apr/3|Reading topic 7: Mobile a11y|Pilot user study|User study plan (4%) due Th||
 |Apr/6 - Apr/10|Reading topic 8: People with motor impairment|Reading topic 9: Learning disabilities|||
 |Apr/13 - Apr/17|Reading topic 10: Wearables for a11y|Analyze user study results|||
-|Apr/20 - Apr/24|Course reflection, plans to continue work after semester ends|Code and demo (15%) due Tu<br>Final report (7%) due Th||
+|Apr/20 - Apr/24|Final presentations|Course reflection, plans to continue work after semester ends|Code and demo (15%) due Tu<br>Final report (7%) due Th||
 |Final Exam Week|No Exam|Students must submit their written final report|||
